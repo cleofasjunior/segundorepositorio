@@ -1,28 +1,30 @@
-# Repositório com o Desafio de Projeto da Dio sobre a GitHub
-# Desafio de Projeto na Dio para criação do segundo repositório na GitHub para demonstrar a minha evolução durante o Bootcamp Liderança Negra do Grupo Carrefour.
-Você pode acessar a plataforma colaborativa da Dio em https://www.dio.me/sign-in. 
-# O meu segundo repositório é composto por dois cursos: o Curso Lógica Programacional e o Curso GitHub para Criação de Projetos.
-# O roteiro de estudo do Curso Lógca Programacional é o seguinte:
-- o conceito de pensamento computacional
-- os pilares do pensamento computacional: decomposição, padrões, abstrações, algoritmos.
-- a construção de um algoritmo 
-- o conceito de lógica de programação
-- técnicas de lógica de programação
-- tipologias e variavéis na criação algoritmos
-- instruções primitivas
-- estruturas condições e operadoras
-- vetores e matrizes
-- funções
-- instruções de entrada e saída
-- linguagens de programação
-- características de um programa
-- análises de código: léxica, sintática e semântica.
-- paradigmas de programação
+# 🎓 Sistema de Controle de Notas: Lógica e Algoritmos
 
-# O roteiro de estudo do Curso GitHub para Criação de Projetos é o seguinte:
-- A importância do Git e GitHub para a construção de um portfólio consistente com a construção de vários projetos com soluções criativas.
-- A criação de repositórios públicos em https://github.com/new
-- O conceito de "fork"
-- O GitHub é um editor de código online
-- A importância de instalação do Git Basch no computador
-- A importância da Sintaxe Básica Merkdown
+> "A tecnologia deve servir para automatizar processos e garantir justiça na avaliação."
+
+Bem-vindo ao meu segundo repositório.
+
+Aqui, eu conecto minha experiência de 15 anos como **Diretor Pedagógico** com minha nova jornada em **Ciência da Computação**.
+
+## 🎯 O Problema
+Todo educador precisa tomar decisões baseadas em dados (notas). O processo manual é lento e sujeito a erros.
+
+## 💡 A Solução (Algoritmo)
+Desenvolvi um script que automatiza a regra de negócio de uma escola típica:
+1.  Recebe as notas do aluno.
+2.  Calcula a média aritmética.
+3.  Aplica a lógica de aprovação:
+    * **Média >= 7:** Aprovado 🟢
+    * **Média entre 5 e 6.9:** Recuperação 🟡
+    * **Média < 5:** Reprovado 🔴
+
+## 🛠️ Tecnologias e Conceitos
+* **Linguagens:** C# (.NET) e Python.
+* **Conceitos:**
+    * Variáveis e Tipos de Dados (`double`, `float`).
+    * Entrada e Saída de Dados (`Console.ReadLine`, `input`).
+    * Estruturas Condicionais (`if`, `else if`, `else`).
+    * Formatação de Strings (Interpolação).
+
+---
+*Projeto desenvolvido por [Cleófas Júnior](https://github.com/cleofasjunior) - Transformando educação em código.*

@@ -1,6 +1,0 @@
-- A importância do Git e GitHub para a construção de um portfólio consistente com a construção de vários projetos com soluções criativas.
-- A criação de repositórios públicos em https://github.com/new
-- O conceito de "fork"
-- O GitHub é um editor de código online
-- A importância de instalação do Git Basch no computador.
-- A importância da Sintaxe Básica Merkdown.
